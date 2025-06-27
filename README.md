@@ -48,3 +48,6 @@ The workflow consists of three main stages:
 
 The dataset has been downloaded from open source.
 > **Source:** https://huggingface.co/datasets/gymprathap/Chicago-Crime-Dataset/resolve/main/Crimes_-_2001_to_Present_20240713.csv
+
+# Project Report
+Comprehensive project report can be acessed from the pdf file in the root folder of the project.
