@@ -1,0 +1,11 @@
+/pyspark/kafka_2.13-4.0.0
+*.csv
+/pyspark/Project/Datasets/3_crimes_cleaned
+/pyspark/Project/Datasets/crimes-small-test
+/pyspark/Project/Datasets/crimes-small-train
+/pyspark/Project/Models/Model/model-LinearSVM
+/pyspark/Project/Models/Model/model-LogReg
+/pyspark/Project/Models/Model/model-RandomForest
+/pyspark/Project/Models/Pipelines/pipeline-LinearSVM
+/pyspark/Project/Models/Pipelines/pipeline-LogReg
+/pyspark/Project/Models/Pipelines/pipeline-RandomForest
